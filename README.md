@@ -8,13 +8,13 @@ Netflix Insights
 From the given data below are the insights I extracted
 
 1.	The top 3 genres are
-  a.	Documentary
-  b.	Standup Comedy
-  c.	Drama, International Movies
+    a.	Documentary
+    b.	Standup Comedy
+    c.	Drama, International Movies
 2.	Most Top3 released countries are
-  a.	USA
-  b.	India
-  c.	UK
+    a.	USA
+    b.	India
+    c.	UK
 3.	The max no. of movies released was in year 2019 and the count of movies is 1546
 4.	The max no. of TV shows released was in year 2019 and the count of TV shows in 803
 5.	The total no. of Movies released from 2008 to 2020 is 4265
