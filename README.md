@@ -3,8 +3,10 @@ Dashboard creation of Nerflix data using Tableau (BI Tool)
 you will find the csv file and a final Dashboard pic also.
 
 
-**Netflix Insights
+Netflix Insights
+
 From the given data below are the insights I extracted
+
 1.	The top 3 genres are
   a.	Documentary
   b.	Standup Comedy
@@ -18,4 +20,3 @@ From the given data below are the insights I extracted
 5.	The total no. of Movies released from 2008 to 2020 is 4265
 6.	The total no. of TV shows released from 2008 to 202 is 1969
 7.	The Dashboard is also interactive we can see the rating, duration, date-added, Release year, genre and description real-time for a particular movie or show
-**
